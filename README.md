@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=swift,flutter,vue,nuxt,mysql,discord,github,idea,vscode,arduino,git,wordpress,xcode)](https://skillicons.dev)
 
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupakornGit&show_icons=true&theme=radical)
+-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupakornGit&layout=compact)](https://github.com/SupakornGit)
